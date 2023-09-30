@@ -1,0 +1,38 @@
+#(1)
+# class Student:
+#    def __init__(self):
+#        self.name = 'Георгий'
+#        self.grade = 'восьмом'
+#
+# def greeting(self):
+#        print(f"Привет, меня зовут {self.name} и я учусь в {self.grade} классе.")
+
+#(2)
+# class Animal:
+#   def __init__(self):
+#        self.name = 'Кот Василий'
+#        self.voice = 'ХОЧУ КУШАААЦ, МЯЯЯУ!!'
+#
+# def voice(self):
+#   print(f"{self.name} каждый раз в 3 часа ночи кричит: {self.sound}")
+
+#(3)
+#class Book:
+#    def __init__(self):
+#        self.title = 'Голова профессора Доуэля'
+#       self.author = 'А.Р.Беляев'
+#
+#def display_info(self):
+#        print(f"Книга {self.title} которую написал {self.author}")
+
+#(4)
+#class Fruit:
+#    def __init__(self):
+#        self.name = 'Мандарины'
+#        self.color = 'оранжевые'
+
+#    def present(self):
+#        print(f"Я люблю{self.name}они {self.color}. Сам в шоке.")
+
+#(5)
+#print('Простите, но я не шарю за футбол:(')
